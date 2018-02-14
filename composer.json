@@ -24,5 +24,8 @@
             ]
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require-dev": {
+        "cierra-gmbh/kbaapi": "^1.0"
+    }
 }

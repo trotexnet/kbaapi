@@ -28,8 +28,8 @@ class Kba {
      */
     public function __construct()
     {
-        $this->baseurl = config('kbaapi.baseurl');
-        $this->token = config('kbaapi.token');
+        $this->baseurl = config('Kbaapi.baseurl');
+        $this->token = config('Kbaapi.token');
         $this->client = new Client();
     }
 
