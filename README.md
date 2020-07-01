@@ -1,3 +1,5 @@
+# No service anymore.
+
 # Kba-API
 
 Ein Paket der Cierra-GmbH
